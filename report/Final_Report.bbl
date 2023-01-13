@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{bolstad2003comparison}
+Benjamin~M Bolstad, Rafael~A Irizarry, Magnus {\AA}strand, and Terence~P.
+  Speed.
+\newblock A comparison of normalization methods for high density
+  oligonucleotide array data based on variance and bias.
+\newblock {\em Bioinformatics}, 19(2):185--193, 2003.
+
+\bibitem{davis2008hepatocellular}
+Gary~L Davis, Jane Dempster, James~D Meler, Douglas~W Orr, Mark~W Walberg,
+  Brian Brown, Brian~D Berger, John~K O'Connor, and Robert~M Goldstein.
+\newblock Hepatocellular carcinoma: management of an increasingly common
+  problem.
+\newblock 21(3):266, 2008.
+
+\bibitem{friedman2001elements}
+Jerome Friedman, Trevor Hastie, and Robert Tibshirani.
+\newblock {\em The elements of statistical learning}, volume~1.
+\newblock Springer series in statistics Springer, Berlin, 2001.
+
+\bibitem{hicks2015quantro}
+Stephanie~C Hicks and Rafael~A Irizarry.
+\newblock quantro: a data-driven approach to guide the choice of an appropriate
+  normalization method.
+\newblock {\em Genome biology}, 16(1):1, 2015.
+
+\end{thebibliography}
